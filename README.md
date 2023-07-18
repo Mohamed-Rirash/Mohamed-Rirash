@@ -1,4 +1,3 @@
-![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.elitetechnocrats.com%2F&psig=AOvVaw3nFQNS_tQIANZbOU6f4aCh&ust=1689752695647000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiPld264ZeAAxVCOnoKHRWVBvMQjRx6BAgAEAw)
 <h1 align="center">Hi 👋, I'm Mohamed Ismail</h1>
 <h3 align="center">A passionate full stack software engineer</h3>
 
@@ -6,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-rirash" alt="mohamed-rirash" /></a> </p>
 
+- 🔭 I’m currently working on **C Printf function**
+
 - 🌱 I’m currently learning **C**
+
+- 👨‍💻 All of my projects are available at [comingsoon](comingsoon)
+
+- 💬 Ask me about **C# , .net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
