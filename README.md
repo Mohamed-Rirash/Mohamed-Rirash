@@ -1,4 +1,4 @@
-![head](https://giphy.com/clips/work-computer-laptop-1u01IRKm3cKUH4GU1U)
+![head](https://miro.medium.com/v2/resize:fit:1000/1*aYo7IrzJ4XJ-aENpk7iKxg.png)
 <h1 align="center">Hi 👋, I'm Mohamed Ismail</h1>
 <h3 align="center">A passionate full stack software engineer</h3>
 
