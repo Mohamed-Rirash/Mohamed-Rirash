@@ -1,4 +1,4 @@
-![head](https://miro.medium.com/v2/resize:fit:1000/1*aYo7IrzJ4XJ-aENpk7iKxg.png)
+![head](https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Mohamed Ismail</h1>
 <h3 align="center">A passionate backend software engineer with a flair for full-stack development</h3>
