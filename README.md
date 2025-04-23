@@ -57,10 +57,9 @@ I'm a backend engineer who designs clean, efficient, and reliable systems. I foc
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Rirash&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="flex: 1 1 50%; margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Rirash&theme=radical&hide_border=false&layout=compact" alt="Top Languages" style="flex: 1 1 50%; margin: 10px;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-Rirash&theme=radical&hide_border=false" alt="GitHub Streak" style="flex: 1 1 10%; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Rirash&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="flex: 1 1 25%; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Rirash&theme=radical&hide_border=false&layout=compact" alt="Top Languages" style="flex: 1 1 25%; margin: 10px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-Rirash&theme=radical&hide_border=false" alt="GitHub Streak" style="flex: 1 1 50%; margin: 10px;" />
 </div>
 
 ---
